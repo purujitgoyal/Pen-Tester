@@ -7,3 +7,4 @@ The tool contains the following testing options.
 - ARP Poisoning
 - DNS Cache Poisoning
 - DOS Attacks
+- Email Spoofing
